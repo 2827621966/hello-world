@@ -1,3 +1,3 @@
 # hello-world
-新手任务
-hi boy tody you will do something for this 
+你好世界 记录自己成长的历程 
+我走的不是很快，但是我要走的很稳，一步一步。
